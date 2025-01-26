@@ -1,7 +1,4 @@
 User-agent: *
 Disallow: 
 Allow: /
-Allow: /sitemap.htm
-Allow: /https://www.saifurrehman.com/index.html
-Allow: /https://www.saifurrehman.com/files/SaifUrRehman-CV.pdf
 Sitemap: https://www.saifurrehman.com/sitemap.xml
